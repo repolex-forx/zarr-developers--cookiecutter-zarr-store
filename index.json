@@ -1,0 +1,11 @@
+{
+  "org": "zarr-developers",
+  "repo": "cookiecutter-zarr-store",
+  "versions": [
+    {
+      "commit": "d8f692940f64d3dce711553a50fde24ce92f1e2c",
+      "tag": "",
+      "parsed_at": "2026-10-28T11:20:08.369043+00:00"
+    }
+  ]
+}
