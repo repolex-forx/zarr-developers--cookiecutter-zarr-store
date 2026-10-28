@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/zarr-developers/cookiecutter-zarr-store/commit/d8f692940f64d3dce711553a50fde24ce92f1e2c",
       "git:hexsha": "d8f692940f64d3dce711553a50fde24ce92f1e2c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
